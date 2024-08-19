@@ -63,3 +63,9 @@ but in next js this process is entirely automatic
 2. code spliting
 3. search engine optimization
 4. rendering automatically
+
+# folder structure
+
+- by default the page.js is server side page but if want to make it as client side then you have to use at the top "use client"
+- layout page is the main page where whole application is render
+- page.js is a normal home page which is render on ui
