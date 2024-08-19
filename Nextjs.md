@@ -55,7 +55,7 @@ but in next js this process is entirely automatic
 
 - leting us focus on building the essential business logic of the application
 
-7. it still just react
+7. it still just react js
 
 # next js manage variety of features
 
