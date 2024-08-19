@@ -69,3 +69,14 @@ but in next js this process is entirely automatic
 - by default the page.js is server side page but if want to make it as client side then you have to use at the top "use client"
 - layout page is the main page where whole application is render
 - page.js is a normal home page which is render on ui
+
+1. client and server side components
+2. routing
+3. Nexted routing
+4. dynamic routing
+5. loading
+6. error handing
+7. data fetching:
+   - 1. server side rending(ssr)
+   - 2. static site generation (ssg)
+   - 3. Incremental static generation (isr)
