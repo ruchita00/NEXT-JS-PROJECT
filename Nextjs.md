@@ -81,3 +81,4 @@ but in next js this process is entirely automatic
    - 2. static site generation (ssg)
    - 3. Incremental static generation (isr)
 
+- using this metadata we can improve the application seo we can define metadata in two ways static and dynamic
