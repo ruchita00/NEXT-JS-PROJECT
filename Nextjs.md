@@ -80,3 +80,4 @@ but in next js this process is entirely automatic
    - 1. server side rending(ssr)
    - 2. static site generation (ssg)
    - 3. Incremental static generation (isr)
+
